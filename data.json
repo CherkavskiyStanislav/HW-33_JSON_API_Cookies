@@ -1,0 +1,17 @@
+{
+    "mike":{
+       "name": "Mike",
+       "age": 18,
+       "isAdmin": false
+    },
+    "bob":{
+       "name": "Bob",
+       "age": 32,
+       "isAdmin": false
+    },
+    "nikola":{
+       "name": "Nikola",
+       "age": 25,
+       "isAdmin": true
+    }
+}
